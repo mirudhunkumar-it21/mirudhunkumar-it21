@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mirudhun S</h1>
 <h3 align="center">A Proficient frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="[https://tenor.com/view/myart-mygif-rage-bear-angry-gif-12653810](https://media1.tenor.com/m/gUml9fBuw8AAAAAC/myart-mygif.gif)">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirudhunkumar-it21" alt="mirudhunkumar-it21" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio using React JS](+)
+
+- 🔭 I’m currently working on Portfolio using React JS
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UMfve7KM4N688HGVnxvDF6whPy46SLP7/view?usp=sharing](https://drive.google.com/file/d/1UMfve7KM4N688HGVnxvDF6whPy46SLP7/view?usp=sharing)
 
